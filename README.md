@@ -1,1 +1,1 @@
-# clone_project
+# Clone Project 1/ Chrome App with JS
